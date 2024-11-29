@@ -3,10 +3,32 @@
 Este repositorio recopila los certificados que he obtenido a lo largo de mi trayectoria como desarrollador de software. Cada uno refleja mi compromiso con el aprendizaje continuo y mi pasión por el desarrollo web y de software, especialmente en el área de Backend.
 
 ## 📂 Contenido
-- **Certificados destacados:**
-  - [Nombre del Certificado 1](ruta/al/certificado.pdf) - Plataforma: Platzi (Año).
-  - [Nombre del Certificado 2](ruta/al/certificado.pdf) - Plataforma: Udemy (Año).
-  - [Nombre del Certificado 3](ruta/al/certificado.pdf) - Ucompensar (Año).
+
+### 🔹 Introducción
+  - Curso de Introducción a la Terminal y Línea de Comandos: [Certificados/Platzi/introduccion-terminal.pdf](Certificados/Platzi/introduccion-terminal.pdf) - Plataforma: Platzi (2021).
+  - Curso de Introducción al Pensamiento Computacional con Python: [Certificados/Platzi/pensamiento-computacional.pdf](Certificados/Platzi/pensamiento-computacional.pdf) - Plataforma: Platzi (2021).
+
+### 🔹 Fundamentos de Python y Django
+  - Curso Básico de Python: [Certificados/Platzi/basico-python.pdf](Certificados/Platzi/basico-python.pdf) - Plataforma: Platzi (2021).
+  - Curso Básico de Django: [Certificados/Platzi/basico-django.pdf](Certificados/Platzi/basico-django.pdf) - Plataforma: Platzi (2021).
+
+### 🔹 Desarrollo Backend y Frameworks
+  - Curso de Introducción al Desarrollo Backend: [Certificados/Platzi/introduccion-backend.pdf](Certificados/Platzi/introduccion-backend.pdf) - Plataforma: Platzi (2021).
+  - Curso de Flask: [Certificados/Platzi/flask.pdf](Certificados/Platzi/flask.pdf) - Plataforma: Platzi (2021).
+  - Curso de FastAPI: Fundamentos, Path Operations y Validaciones: [Certificados/Platzi/fastapi-fundamentos.pdf](Certificados/Platzi/fastapi-fundamentos.pdf) - Plataforma: Platzi (2021).
+  - Curso de FastAPI: Modularización, Datos y Errores: [Certificados/Platzi/fastapi-modularizacion.pdf](Certificados/Platzi/fastapi-modularizacion.pdf) - Plataforma: Platzi (2021).
+  - Curso de Django Intermedio: Testing, Static Files, Django Admin: [Certificados/Platzi/django-intermedio.pdf](Certificados/Platzi/django-intermedio.pdf) - Plataforma: Platzi (2021).
+
+### 🔹 Avanzado en Python
+  - Curso Práctico de Python: Creación de un CRUD: [Certificados/Platzi/crud-python.pdf](Certificados/Platzi/crud-python.pdf) - Plataforma: Platzi (2021).
+  - Curso de Introducción a Selenium con Python: [Certificados/Platzi/selenium-python.pdf](Certificados/Platzi/selenium-python.pdf) - Plataforma: Platzi (2021).
+  - Curso de Estructuras de Datos Lineales con Python: [Certificados/Platzi/estructuras-lineales.pdf](Certificados/Platzi/estructuras-lineales.pdf) - Plataforma: Platzi (2021).
+  - Curso Django y Django rest framework de básico a profesional: (Certificados/Udemy/Curso-Django-backend.pdf) - Plataforma: Udemy (2021).
+  - Curso Práctico de Django: Desarrollo Web Backend con Python (Certificados/Udemy/Curso-Django-y-Django-rest-framenwork-de-basico-a-profesional.pdf) - Plataforma: Udemy (2021).
+
+###🔹Git y Github profesional
+  - Curso Profesional de Git y GitHub: (Certificados/Platzi/diploma-git-github.pdf) - Plataforma: Platzi (2021).
+
 
 - **Áreas de especialización:**
   - Desarrollo Backend.
